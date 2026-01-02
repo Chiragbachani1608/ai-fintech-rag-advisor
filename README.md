@@ -1,5 +1,17 @@
 # 🚀 Indian Stock Analysis Platform with AI & ML
 
+
+
+
+
+#Video
+
+https://github.com/user-attachments/assets/34c206b2-cf8c-4a82-b0a9-358ac6f98312
+
+
+
+#Status and Licenses
+
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)]()
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)]()
 [![License](https://img.shields.io/badge/License-MIT-green)]()
@@ -424,5 +436,6 @@ python main_gui.py
 
 
 https://github.com/user-attachments/assets/34c206b2-cf8c-4a82-b0a9-358ac6f98312
+
 
 
