@@ -421,3 +421,8 @@ python main_gui.py
 **Last Updated**: January 2, 2026  
 **Author**: AI Fintech Advisor  
 **Status**: ✅ Active Development
+
+
+https://github.com/user-attachments/assets/34c206b2-cf8c-4a82-b0a9-358ac6f98312
+
+
